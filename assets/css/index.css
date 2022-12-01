@@ -44,6 +44,17 @@
     text-decoration: none;
 }
 
+#section1 a:hover {
+    background-color: #FF4081;
+    color: #fff;
+    font-weight: 400;
+    font-size: 2.7rem;
+    border: 0.2rem solid #FF4081;
+    border-radius: 6.2rem;
+    padding: 0.8rem 2.6rem;
+    text-decoration: none;
+}
+
 
 #section2 {
     background-color: #F6F6F6;
@@ -83,6 +94,18 @@
     font-size: 2rem;
     background: #FF4081;
     border-radius: 6.2rem;
+    padding: 0.8rem 1.5rem 0.9rem 1.57rem;
+    text-decoration: none;
+    text-align: center;
+}
+#section2 div a:hover {
+
+    color: #FF4081;
+    font-weight: 400;
+    font-size: 1.8rem;
+    background: #fff;
+    border-radius: 6.2rem;
+    border: 0.1rem solid #FF4081;
     padding: 0.8rem 1.5rem 0.9rem 1.57rem;
     text-decoration: none;
     text-align: center;
