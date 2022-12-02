@@ -56,18 +56,6 @@ section a {
     max-width: 23.3rem;
 }
 
-section a:hover {
-    color: #419488;
-    font-weight: 400;
-    font-size: 2rem;
-    background: #FFFFFF;
-    border-radius: 6.2rem;
-    border: 0.1rem solid #419488;
-    padding: 0.8rem 4.2rem;
-    text-decoration: none;
-    max-width: 23.3rem;
-}
-
 section div {
     padding: 0rem 5.3rem;
 }
