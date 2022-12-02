@@ -67,6 +67,13 @@ section img {
     width: 100%;
 }
 
+
+@media (max-width: 1156px){
+    section div {
+        text-align: center;
+    }
+}
+
 @media (max-width: 425px){
     section img {
         width: 80%;
@@ -79,11 +86,6 @@ section img {
     }
 }
 
-@media (max-width: 1156px){
-    section div {
-        text-align: center;
-    }
-}
 
 @media (max-width: 349px) {
     section div {
