@@ -70,9 +70,6 @@ section img {
     section img {
         width: 80%;
     }
-    #banner {
-        padding: 8.1rem 6.5rem 8.2rem;
-    }
 }
 
 @media (max-width: 1156px){
