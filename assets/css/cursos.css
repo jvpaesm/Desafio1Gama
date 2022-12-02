@@ -1,3 +1,4 @@
+ 
 #banner h1 {
     color: #FF4081;
     font-weight: 700;
@@ -70,10 +71,23 @@ section img {
     section img {
         width: 80%;
     }
+    section a {
+        font-size: 1.8rem;
+    }
+    #banner {
+        padding: 8.1rem 6.5rem 8.2rem;
+    }
 }
 
 @media (max-width: 1156px){
     section div {
         text-align: center;
+    }
+}
+
+@media (max-width: 349px) {
+    section div {
+        padding: 0px;
+        margin: 0rem 1rem;
     }
 }
